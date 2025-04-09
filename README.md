@@ -115,8 +115,8 @@ This project was built and designed in **Microsoft Excel**, using advanced data 
 ## 🙋‍♂️ Author
 
 **John David**  
-Data Analyst | Excel & Power BI Expert  
-📧 [your-email@example.com]  
+Data Analyst | Excel & Power BI Expert  | Data Scientist | ML Engineer | Data Engineer | AI
+📧 [adelekejohndavid@gmail.com]  
 🔗 [LinkedIn Profile](www.linkedin.com/in/john-david-b7b5781b3) 
 📦 [GitHub Portfolio](https://github.com/johndave74)
 
